@@ -13,7 +13,7 @@ A basic real-time chat application.
 1. Set up environment variables:
 
 ```bash
-cp env.example .env
+cp .env.example .env
 ```
 
 2. Install dependencies:
